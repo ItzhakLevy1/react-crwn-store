@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-crwn-store/static/css/main.91a38ad2.css",
+    "main.js": "/react-crwn-store/static/js/main.f4cab6f2.js",
+    "index.html": "/react-crwn-store/index.html",
+    "main.91a38ad2.css.map": "/react-crwn-store/static/css/main.91a38ad2.css.map",
+    "main.f4cab6f2.js.map": "/react-crwn-store/static/js/main.f4cab6f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91a38ad2.css",
+    "static/js/main.f4cab6f2.js"
+  ]
+}
