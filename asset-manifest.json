@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-crwn-store/static/css/main.91241906.css",
-    "main.js": "/react-crwn-store/static/js/main.7750b97f.js",
+    "main.js": "/react-crwn-store/static/js/main.13414c7b.js",
     "index.html": "/react-crwn-store/index.html",
     "main.91241906.css.map": "/react-crwn-store/static/css/main.91241906.css.map",
-    "main.7750b97f.js.map": "/react-crwn-store/static/js/main.7750b97f.js.map"
+    "main.13414c7b.js.map": "/react-crwn-store/static/js/main.13414c7b.js.map"
   },
   "entrypoints": [
     "static/css/main.91241906.css",
-    "static/js/main.7750b97f.js"
+    "static/js/main.13414c7b.js"
   ]
 }
